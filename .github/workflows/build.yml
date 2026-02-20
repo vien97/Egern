@@ -111,4 +111,5 @@ jobs:
                   rootful-package
                   rootless-package
                   roothide-package
+
                 failOnError: false
